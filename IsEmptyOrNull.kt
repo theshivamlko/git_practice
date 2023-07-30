@@ -22,6 +22,10 @@ fun main( ) {
         println("for")
 
     }
+    for(s in 1..20){
+        println("for2")
+
+    }
 }
 
 fun String.isEmptyOrNull():Boolean {
