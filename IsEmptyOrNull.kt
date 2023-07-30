@@ -8,6 +8,13 @@ fun main( ) {
 
     val s3 = "   "
     s3.isEmptyOrNull()  eq false
+
+    if(s3.isEmpty()){
+        println("isEmpty")
+    }
+    else   if(s3.length>0)){
+        println("isEmpty")
+    }
 }
 
 fun String.isEmptyOrNull():Boolean {
