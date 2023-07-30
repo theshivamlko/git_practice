@@ -24,6 +24,8 @@ fun main( ) {
     }
     for(s in 1..20){
         println("for2")
+                println("rebase3")
+
 
     }
 }
