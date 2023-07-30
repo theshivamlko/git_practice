@@ -7,5 +7,9 @@
 } 
 
 class  A {
+  func sum(){
+
+    
+  }
   
 }
