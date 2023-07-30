@@ -15,6 +15,13 @@ fun main( ) {
     else   if(s3.length>0)){
         println("isEmpty")
     }
+
+
+    var s=1
+    for(s in 1..10){
+        println("for")
+
+    }
 }
 
 fun String.isEmptyOrNull():Boolean {
