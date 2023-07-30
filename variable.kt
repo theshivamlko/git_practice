@@ -8,4 +8,7 @@
 
 class  A {
   
+  fun print(){
+    println("Hello")
+  }
 }
