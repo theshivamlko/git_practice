@@ -24,4 +24,8 @@ func sum1Num():Boolean{
 fun print(){
   println("Hello")
 }
+
+fun abc(){
+  println("abc")
+}
 }
